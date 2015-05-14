@@ -32,7 +32,7 @@ This is a list of virtual environment that can be used for various of languages,
 * [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.
 * [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv.
 * [nvm](https://github.com/creationix/nvm) - Node Version Manager (does not require prior installation of node).
-* [pm2](https://www.npmjs.com/package/pm2)
+* [pm2](https://www.npmjs.com/package/pm2) - Production process manager for Node.js / io.js applications.
 
 # Reference
 1. [Awesome-python](http://github.com/vinta/awesome-python)
