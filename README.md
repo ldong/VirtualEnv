@@ -1,6 +1,6 @@
 # VirtualEnv
 
-This is a list of virtual environment that can be used for various of languages, pull request are welcome.
+This is a list of virtual environments that can be used for various languages, pull request are welcomed.
 
 ## Python
 
